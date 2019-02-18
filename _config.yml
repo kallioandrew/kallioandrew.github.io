@@ -9,4 +9,5 @@ plugins:
 
 minimal_mistakes_skin: "air"
 
-title: "Andrew Kallio"
+title: &name "Andrew Kallio"
+name: *name
