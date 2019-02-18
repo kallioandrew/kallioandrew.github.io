@@ -6,3 +6,5 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+
+minimal_mistakes_skin: "air"
