@@ -1,3 +1,4 @@
+#basic things
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-paginate
@@ -7,7 +8,15 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+#theme skin
 minimal_mistakes_skin: "air"
 
+#seo shit
 title: &name "Andrew Kallio"
 name: *name
+description: "For those of you who are actually interested in my thoughts."
+url: https://andrewkallio.me
+
+#home page
+paginate: 5
+paginate_path: /page:num/
