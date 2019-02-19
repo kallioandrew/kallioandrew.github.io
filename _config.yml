@@ -6,6 +6,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-archives
   - jekyll-include-cache
 
 #theme skin
@@ -57,5 +58,6 @@ defaults:
       comments: true
       share: true
       related: true
+      breadcrumbs: true
 
 # theme documentation https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
