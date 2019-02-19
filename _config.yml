@@ -43,4 +43,18 @@ author:
   bio: "17 year old student from the town of Cincinnati, Ohio. Since my amazing birth, I've moved to Omaha, Nebraska where I have furtherd my interest in technology and creative arts. I am interested in anything that has to do with technology."
   location: "Omaha, Nebraska"
 
+#posts
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
 # theme documentation https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
