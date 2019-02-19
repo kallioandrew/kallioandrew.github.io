@@ -1,67 +1,26 @@
 ---
 layout: posts
 classes: wide
-title:  "Sup y'all."
+title:  "Finally, a company that realizes that not every student is rich."
 header:
   image: /images/sample.jpg
   teaser: /images/sample.jpg
 breadcrumbs: true
-category: "Sample"
+category: "GitHub"
 read_time: true
 comments: true
 share: true
 related: true
 ---
 
-## Qua ullum permulsit repugnat
 
-### In exue adit promissa Iolao
 
-Lorem markdownum pars primum cornuaque et sunt sanguine fraudes. Locum *tune*,
-huc conamine damno cresce parat referat agat nympha lucoque acta imber, quid
-quae aestus dives. Ante aequales signum.
+Thank you GitHub!
 
-> Avi **ego mihi** et negabat nobis telae excita Perrhaebum urna inmittite
-> occidimus, in urbem per. Non Haemoniae me meruit, tamen nos alligat, sic aures
-> dextra corymbis audax indignantia iniuria nervis ramumque coegerat.
+Finally, a company that realizes that students are nothing but broke. Offering the education pack is helping me achieve my goal of becoming an even bigger nerd than I am. Not only that, but they are helping me realize the power of the GitHub platform. Since applying for the education pack, I have figured out how to use the GitHub platform, and also helped me setup a website where I can share my thoughts, things I learn, and whatever I want.
 
-## Melioribus fortissimus cognita de quam adhuc succinctis
+For those who are confused as to why I am writing this, I want to share this amazing package with them. GitHub Education is a pack of tools that are bundled together and can be obtained by submitting proof of being associated with an institution of education. With this, you get access to a free domain, free SSL certificate, DigitalOcean credit (but for what ever reason trying to use this will get you banned from the DigitalOcean platform, not GitHub&#39;s fault though), and several other resources that will help you become a master at anything development/nerd related. And, it means a lot. Not everyone has the money to pay for these amazing things, yet here is GitHub and several other companies who have joined together to help further the education and discoveries of us broke students. It means a lot.
 
-*Volat multis* soror. Concipit desierat ipse victa ferrum quae ossa Eumenides
-vulnus. [Crista tu habebat](http://www.plenabiformis.com/) luctus transmittere
-Tydidae pinus si curvos ostendi.
+If you are interested, please check out [this link.](https://education.github.com/) This will explain more and give you guys the opportunity to apply.
 
-## Sequitur e cadit horum
-
-Erat non, et sub ense [virum aer](http://aliteriuvenem.com/querentesattolle)
-cur. Cum clara, posset fetum: est quid per medio sua.
-
-> Gemitum sidera stet altaque reluxit, auxilium protinus agmen enim. Iacerent
-> falce sub, roganda insonuit feci, pennas dicit.
-
-## Vel nympha fugit
-
-Et nomine, feremur calescit oculos orant fuit coniuge celeri, [vos
-illa](http://iubet.io/tibi) ille siqua tum, sed. Illa misisset tempora Tyndaris;
-videt date et annos, licuit traherent. Ardesceret **terricula** opus cremarat
-miserabile leves; dextera, Cinyphius populus Paphius cuncti Boeotiaque; me.
-Venerat socio includere, ignigenamque senior, fulvis arma dabis, dea si erat.
-Pectoraque omne, ad deus [concussa ante nec](http://captareferunt.net/) nam
-cortex: ultaque rore parvae fratres laquei, quinque ut matre.
-
-    if (mca_goodput(63)) {
-        compileSoftware = latencyLinuxVector(pebibyte_character_www,
-                monochromeAdware, error + application);
-        wheelCopy = 1;
-        cybersquatter = hsf;
-    } else {
-        coreUnc = io_column;
-    }
-    leopard_key(vertical_node_version, desktop);
-    var room_server = jumper.ccd(java.ipvAddSymbolic(debugger) + 4 + 3,
-            autoresponder + waisZettabyte + icio, variablePhishing(irq) + cps(
-            ddrKilobitPerl, cdHertzRaid));
-
-Telis Ionio est. Cereris falcis si et, ambit. Cepheusque pinum calamo, mecum
-praebentque moenia, voce facinus, positoque. Possim ebrietas fonte
-**digredimur** potens dexteriore munus suis versus iudex non, faciemque!
+Also, sorry for the bad quality of this post. I am trying to get into journalism. I promise, just stick around. The quality will improve, I swear!
