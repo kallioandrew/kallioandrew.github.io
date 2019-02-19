@@ -11,6 +11,7 @@ plugins:
 
 #breadcrumbs
 permalink: /:categories/:title/
+breadcrumbs: true
 
 #theme skin
 minimal_mistakes_skin: "contrast"
