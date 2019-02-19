@@ -9,6 +9,9 @@ plugins:
   - jekyll-archives
   - jekyll-include-cache
 
+#breadcrumbs
+permalink: /:categories/:title/
+
 #theme skin
 minimal_mistakes_skin: "contrast"
 

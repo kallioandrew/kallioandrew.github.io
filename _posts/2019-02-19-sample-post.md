@@ -5,6 +5,8 @@ title:  "Sup y'all."
 header:
   image: /images/sample.jpg
   teaser: /images/sample.jpg
+
+category: "Sample"
 ---
 
 ## Qua ullum permulsit repugnat
