@@ -5,7 +5,7 @@ title:  "Sup y'all."
 header:
   image: /images/sample.jpg
   teaser: /images/sample.jpg
-
+breadcrumbs: true
 category: "Sample"
 ---
 
