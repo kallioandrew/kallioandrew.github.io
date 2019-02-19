@@ -7,6 +7,10 @@ header:
   teaser: /images/sample.jpg
 breadcrumbs: true
 category: "Sample"
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 ## Qua ullum permulsit repugnat
