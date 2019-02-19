@@ -23,7 +23,7 @@ url: https://andrewkallio.me
 
 #home page
 paginate: 5
-paginate_path: /page:num/
+paginate_path: /:categories/:title/
 author_profile: true
 
 #footer
