@@ -20,3 +20,20 @@ url: https://andrewkallio.me
 #home page
 paginate: 5
 paginate_path: /page:num/
+
+#footer
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/adwk_"
+
+    - label: "Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/kallioandrew"
+
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/kallioandrew"
+
+# theme documentation https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
