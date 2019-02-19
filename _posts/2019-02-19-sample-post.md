@@ -1,6 +1,4 @@
 ---
-layout: posts
-classes: wide
 title:  "Finally, a company that realizes that not every student is rich."
 header:
   image: /images/sample.jpg
