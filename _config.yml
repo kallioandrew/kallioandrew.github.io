@@ -40,5 +40,7 @@ footer:
 author:
   name: "Andrew Kallio II"
   avatar: "https://pbs.twimg.com/profile_images/1072019786165571584/GlgKiaSL_400x400.jpg"
+  bio: "17 year old student from the town of Cincinnati, Ohio. Since my amazing birth, I've moved to Omaha, Nebraska where I have furtherd my interest in technology and creative arts. I am interested in anything that has to do with technology."
+  location: "Omaha, Nebraska"
 
 # theme documentation https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
