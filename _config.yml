@@ -14,7 +14,7 @@ permalink: /:categories/:title/
 breadcrumbs: true
 
 #theme skin
-minimal_mistakes_skin: "contrast"
+#minimal_mistakes_skin: "contrast"
 
 #seo shit
 title: &name "Andrew Kallio"
