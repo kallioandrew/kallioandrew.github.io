@@ -7,9 +7,9 @@ header:
   teaser: /images/sample.jpg
 ---
 
-# Qua ullum permulsit repugnat
+## Qua ullum permulsit repugnat
 
-## In exue adit promissa Iolao
+### In exue adit promissa Iolao
 
 Lorem markdownum pars primum cornuaque et sunt sanguine fraudes. Locum *tune*,
 huc conamine damno cresce parat referat agat nympha lucoque acta imber, quid
