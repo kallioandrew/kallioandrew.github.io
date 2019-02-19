@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: wide
 title:  "Sup y'all."
 header:
   image: /images/sample.jpg
