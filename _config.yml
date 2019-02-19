@@ -35,7 +35,7 @@ footer:
 
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/kallioandrew"
+      url: "#"
 
 #sidebar author
 author:
