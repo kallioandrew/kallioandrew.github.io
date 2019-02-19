@@ -2,7 +2,7 @@
 layout: posts
 title:  "Sup y'all."
 header:
-  - image: /images/sample.jpg
+  image: /images/sample.jpg
 ---
 
 # Qua ullum permulsit repugnat
