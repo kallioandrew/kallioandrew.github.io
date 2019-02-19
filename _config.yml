@@ -36,4 +36,9 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/kallioandrew"
 
+#sidebar author
+author:
+  name: "Andrew Kallio II"
+  avatar: "https://pbs.twimg.com/profile_images/1072019786165571584/GlgKiaSL_400x400.jpg"
+
 # theme documentation https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
